@@ -34,4 +34,4 @@ I care about the unglamorous part: retries, error handling, backups, and
 noticing when something broke at 3am. Most automation fails there, not in the
 happy path.
 
-📍 Indonesia · 🌐 Available for remote work
+🌐 [miqalhikam.com](https://miqalhikam.com) · 📍 Indonesia · Available for remote work

@@ -10,7 +10,7 @@ and several businesses running without anyone touching them.
 
 **What I actually run**
 
-- **22 n8n workflows in production** — attendance recaps, a content pipeline
+- **17 n8n workflows in production** — attendance recaps, a content pipeline
   (draft → illustration → publish), finance reporting, and Telegram bots
 - **Python tooling** for Google Sheets, PDF reports, and health checks
 - **Self-hosted infrastructure** — Ubuntu VPS, Docker, nginx, SSL, cron, monitoring
